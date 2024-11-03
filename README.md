@@ -26,7 +26,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj60221023&show_icons=true&locale=en&layout=compact" alt="raj60221023" /></p>
  
-<p>![Java](https://raw.githubusercontent.com/your-username/your-repo/main/path-to-your-custom-language-chart.png)</p>![Java](https://raw.githubusercontent.com/your-username/your-repo/main/path-to-your-custom-language-chart.png)</p>
-
+ 
 
  
