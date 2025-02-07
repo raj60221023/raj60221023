@@ -26,7 +26,7 @@
 </div>
 
 <div style="background: #161B22; padding: 15px; border-radius: 10px; animation: float 4s ease-in-out infinite;">
-⚡ <strong>Fun Fact:</strong><br>Chess Player ♟️ Rating: 1600+
+⚡ <strong>Fun Fact:</strong><br>Chess Player ♟️ Rating: 500+
 </div>
 
 </div>
