@@ -1,118 +1,22 @@
-<div align="center">
-  
-<!-- Animated header with typing effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Abhinav+Raj;Full+Stack+Developer;Microservices+Expert;Cloud+Enthusiast" alt="Animated Header" />
+<h1 align="center">Hi 👋, I'm Abhinav Raj</h1>
+<h3 align="center">A passionate full stack developer from India </h3>
 
-<!-- Floating divider -->
-<img src="https://media.giphy.com/media/du3J3cXyzhj0IOgvMN/giphy.gif" width="100%" height="5px">
+- 🌱 I’m currently learning **Full stack microservices**
 
-</div>
+- 👯 I’m looking to collaborate on **full stack projects**
 
-<h3 align="center">A passionate full stack developer from India</h3>
+- 🤝 I’m looking for help with **full stack projects**
+- 💬 Ask me about **Java, Spring boot, microservices, react js**
+- 📫 How to reach me **raj.abhinav39749@gmail.com**
+- ⚡ Fun fact **playing chess**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/abhinav-raj-aa5065233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/abhinav-raj-aa5065233" height="30" width="40" /></a>
+</p>
 
-### 🚀 **About Me**
+<h3 align="left">Languages and Tools:</h3>
+ 
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<!-- Floating cards with animated text -->
-<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-
-<div style="background: #161B22; padding: 15px; border-radius: 10px; animation: float 3s ease-in-out infinite;">
-🌱 <strong>Currently Learning:</strong><br>Full Stack Microservices Architecture
-</div>
-
-<div style="background: #161B22; padding: 15px; border-radius: 10px; animation: float 3.5s ease-in-out infinite;">
-💬 <strong>Ask Me About:</strong><br>Java | Spring Boot | React | AWS
-</div>
-
-<div style="background: #161B22; padding: 15px; border-radius: 10px; animation: float 4s ease-in-out infinite;">
-⚡ <strong>Fun Fact:</strong><br>Chess Player ♟️ Rating: 500+
-</div>
-
-</div>
-
----
-
-### 🛠️ **Tech Stack**
-
-<!-- Animated skill icons with hover effects -->
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 15px; margin: 2rem 0;">
-
-<!-- Languages -->
-<div style="animation: float 2s ease-in-out infinite;">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js" alt="Languages" />
-</div>
-
-<!-- Frontend -->
-<div style="animation: float 2.3s ease-in-out infinite;">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" alt="Frontend" />
-</div>
-
-<!-- Backend -->
-<div style="animation: float 2.6s ease-in-out infinite;">
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,postgres" alt="Backend" />
-</div>
-
-<!-- DevOps -->
-<div style="animation: float 2.9s ease-in-out infinite;">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,githubactions" alt="DevOps" />
-</div>
-
-</div>
-
----
-
-### 📊 **GitHub Stats**
-
-<!-- Animated stats cards -->
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-<!-- Streak Stats with fire animation -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavrajsrivastav&theme=radical&hide_border=true&background=0D1117&fire=FF0000&ring=FF0000" alt="Streak Stats" style="animation: scale 2s infinite;"/>
-
-<!-- Profile Stats with floating effect -->
-<img src="https://github-readme-stats.vercel.app/api?username=Abhinavrajsrivastav&show_icons=true&theme=radical&include_all_commits=true" alt="Profile Stats" style="animation: float 3s ease-in-out infinite;"/>
-
-<!-- Top Languages with gradient background -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavrajsrivastav&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="animation: float 3.5s ease-in-out infinite;"/>
-
-</div>
-
----
-
-### 📫 **Connect with Me**
-
-<div align="center" style="display: flex; gap: 15px; justify-content: center; margin-top: 2rem;">
-
-<!-- Animated contact buttons -->
-<a href="https://www.linkedin.com/in/abhinav-raj-aa5065233" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge&logoColor=white" style="animation: bounce 1.5s infinite;"/>
-</a>
-
-<a href="mailto:raj.abhinav39749@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="animation: bounce 1.7s infinite;"/>
-</a>
-
-<a href="https://github.com/Abhinavrajsrivastav">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="animation: bounce 2s infinite;"/>
-</a>
-
-</div>
-
-<!-- Animated divider -->
-<img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="100%" height="3px">
-
----
-
-### ⚙️ **Recent Activity**
-<!-- Auto-updated activity feed -->
-<div align="center" style="background: #0D1117; padding: 15px; border-radius: 10px; margin: 2rem 0;">
-  
-<!-- Activity animation -->
-<img src="https://media.giphy.com/media/du3J3cXyzhj0IOgvMN/giphy.gif" width="30" height="30" style="margin-right: 10px;"/>
-  
-<!-- Activity list -->
-```text
-💻 Working on: Microservices Architecture Project
-🚀 Latest Push: Spring Boot Authentication Module
-📚 Learning: Advanced Kubernetes Patterns
+ update the code with the best animation
