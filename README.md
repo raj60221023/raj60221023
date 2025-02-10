@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Passionate Software Developer from Bhopal, India 🇮🇳  
+- 🎓 Passionate Software Developer from Bhopal, India   
 - 💻 Love coding and building scalable applications  
 - 📫 Reach me at: **raj.abhinav39749@gmail.com**  
 - 🌱 Currently improving my **Cloud & DevOps** skills  
