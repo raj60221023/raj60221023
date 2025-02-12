@@ -1,3 +1,6 @@
+<div style="float: right; margin: 0 0 10px 10px;">
+  <img src="https://your-image-url.com/animated-naruto-inspired.gif" alt="Animated Ninja" width="200">
+</div>
  
 
 
