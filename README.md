@@ -11,7 +11,7 @@
 
  <p align="right">
 <img  width="180" height="180" src="https://github.com/noman2002/noman2002/blob/master/bandar.gif">
-</p>
+ 
 
   
 
@@ -21,7 +21,7 @@
 - 💻 Love coding and building scalable applications  
 - 📫 Reach me at: **raj.abhinav39749@gmail.com**  
 - 🌱 Currently improving my **Cloud & DevOps** skills  
-
+</p>
 ---
 
 ### 🛠️ Skills & Tools
