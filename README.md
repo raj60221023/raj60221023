@@ -4,12 +4,14 @@
 ## Hi there, I'm Abhinav Raj! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
  
- <p align="right">
-<img  width="180" height="180" src="https://github.com/noman2002/noman2002/blob/master/bandar.gif">
-</p>
+ 
  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F73E12&width=500&lines=Welcome+to+my+GitHub!;Java+%7C+Python+%7C+C%2B%2B+%7C+JavaScript;React+%7C+Spring+Boot+%7C+AWS+S3;Always+learning+new+technologies!)](https://git.io/typing-svg)
+
+ <p align="right">
+<img  width="180" height="180" src="https://github.com/noman2002/noman2002/blob/master/bandar.gif">
+</p>
 
   
 
