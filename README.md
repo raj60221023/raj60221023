@@ -21,7 +21,7 @@
 - 💻 Love coding and building scalable applications  
 - 📫 Reach me at: **raj.abhinav39749@gmail.com**  
 - 🌱 Currently improving my **Cloud & DevOps** skills  
-</p>
+ 
 ---
 
 ### 🛠️ Skills & Tools
@@ -75,3 +75,4 @@
 
 ### 🎯 Fun Fact
 🧐 I love solving **DSA problems** & working on **open-source projects**!
+</p>
