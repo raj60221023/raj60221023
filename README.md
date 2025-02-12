@@ -2,8 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F73E12&width=500&lines=Welcome+to+my+GitHub!;Java+%7C+Python+%7C+C%2B%2B+%7C+JavaScript;React+%7C+Spring+Boot+%7C+AWS+S3;Always+learning+new+technologies!)](https://git.io/typing-svg)
 
+ <h3 align="center"> 🍥 Jutsu Arsenal (Skills) 🍥</h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Believe%20It!%20🔥&fontSize=50&fontColor=fff&animation=fadeIn&desc=Uzumaki%20Clan%20Developer&descSize=20"/>
+  <img src="https://img.shields.io/badge/Java-%23FFA500.svg?style=for-the-badge&logo=java&logoColor=white&labelColor=000&color=ffd700"/> 
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=f0e68c"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&color=add8e6"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker,git,mysql,js,cpp" />
 </p>
 
 ### 🚀 About Me
