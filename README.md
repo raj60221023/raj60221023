@@ -1,3 +1,25 @@
+<!-- HEADER -->
+<div align="center">
+  <img src="naruto-header.gif" width="800"/>
+</div>
+
+<!-- SKILLS -->
+## 🍥 Jutsu Scrolls (Skills)
+[Skill badges section]
+
+<!-- STATS -->
+## 📜 Mission Reports (Stats)
+[Animated stats cards]
+
+<!-- CONTRIBUTIONS -->
+## 🔥 Chakra Flow
+![Snake Animation](https://github.com/YourUser/YourUser/blob/output/github-contribution-grid-snake.svg)
+
+<!-- PROJECTS -->
+## 🌀 Secret Techniques
+[Project cards with hover effects]
+
+
 ## Hi there, I'm Abhinav Raj! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F73E12&width=500&lines=Welcome+to+my+GitHub!;Java+%7C+Python+%7C+C%2B%2B+%7C+JavaScript;React+%7C+Spring+Boot+%7C+AWS+S3;Always+learning+new+technologies!)](https://git.io/typing-svg)
