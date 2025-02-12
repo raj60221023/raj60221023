@@ -1,23 +1,4 @@
-<!-- HEADER -->
-<div align="center">
-  <img src="naruto-header.gif" width="800"/>
-</div>
-
-<!-- SKILLS -->
-## 🍥 Jutsu Scrolls (Skills)
-[Skill badges section]
-
-<!-- STATS -->
-## 📜 Mission Reports (Stats)
-[Animated stats cards]
-
-<!-- CONTRIBUTIONS -->
-## 🔥 Chakra Flow
-![Snake Animation](https://github.com/YourUser/YourUser/blob/output/github-contribution-grid-snake.svg)
-
-<!-- PROJECTS -->
-## 🌀 Secret Techniques
-[Project cards with hover effects]
+ 
 
 
 ## Hi there, I'm Abhinav Raj! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
