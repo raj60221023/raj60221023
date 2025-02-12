@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="18251007000849828112" data-share-method="host" data-aspect-ratio="1.05769" data-width="100%"><a href="https://tenor.com/view/ocmz-111-7-oo-cc-gif-18251007000849828112">Ocmz 111 Sticker</a>from <a href="https://tenor.com/search/ocmz-stickers"> 
+<div class="tenor-gif-embed" data-postid="18251007000849828112" data-share-method="host" data-aspect-ratio="1.05769" data-width="100%"><a href="https://tenor.com/view/ocmz-111-7-oo-cc-gif-18251007000849828112"> 
 
 
 ## Hi there, I'm Abhinav Raj! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
