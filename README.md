@@ -12,7 +12,7 @@
  
  
  <img  width="300" height="200" src="https://www.gifcen.com/wp-content/uploads/2022/07/naruto-gif-19.gif">
- <img  width="300" height="200" src="https://github.com/user-attachments/assets/16534bf5-c094-4409-a46f-925805f6e4d6">
+ 
  
 
   
