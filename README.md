@@ -11,7 +11,7 @@
 
  
  <img  width="180" height="180" src="https://github.com/noman2002/noman2002/blob/master/bandar.gif">
- <img  width="350" height="270" src="https://www.gifcen.com/wp-content/uploads/2022/07/naruto-gif-19.gif">
+ <img  width="390" height="270" src="https://www.gifcen.com/wp-content/uploads/2022/07/naruto-gif-19.gif">
  
 
   
