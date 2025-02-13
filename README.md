@@ -11,7 +11,7 @@
 
  
  
- <img  width="390" height="270" src="https://www.gifcen.com/wp-content/uploads/2022/07/naruto-gif-19.gif">
+ <img  width="300" height="200" src="https://www.gifcen.com/wp-content/uploads/2022/07/naruto-gif-19.gif">
  
 
   
