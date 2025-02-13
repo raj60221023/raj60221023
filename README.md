@@ -10,8 +10,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F73E12&width=500&lines=Welcome+to+my+GitHub!;Java+%7C+Python+%7C+C%2B%2B+%7C+JavaScript;React+%7C+Spring+Boot+%7C+AWS+S3;Always+learning+new+technologies!)](https://git.io/typing-svg)
 
   
- 
- <img src="https://giffiles.alphacoders.com/497/49736.gif" width="300" height="200" style="border-radius: 50%" />
+  
+  
+ <img src="https://www.gif-maniac.com/gifs/31/31241.gif" width="300" height="200"   />
+
 
    
 ### 🚀 About Me
