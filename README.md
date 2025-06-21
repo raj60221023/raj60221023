@@ -75,4 +75,8 @@
 
 ### 🎯 Fun Fact
 🧐 I love solving **DSA problems** & working on **open-source projects**!
+
+## 📈 My GitHub Activity Graph
+
+[![raj60221023's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=raj60221023&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
  
