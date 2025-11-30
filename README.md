@@ -55,7 +55,9 @@
 ### 📈 GitHub Stats
  
 
-  <div align="center">
+ ### 📊 GitHub Stats
+
+<div align="center">
 
   <!-- Main Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=raj60221023&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" height="170" />
@@ -73,6 +75,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=raj60221023&theme=onedark&no-frame=true&row=1&column=6" />
 
 </div>
+
 
 ---
 
