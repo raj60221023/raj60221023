@@ -7,7 +7,7 @@
  
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F73E12&width=500&lines=Welcome+to+my+GitHub!;Java+%7C+Python+%7C+C%2B%2B+%7C+JavaScript;React+%7C+Spring+Boot+%7C+AI/ML+%7C+C%2B%2B+%7C+Cloud+Computing+%7C;Always+learning+new+technologies!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F73E12&width=500&lines=Welcome+to+my+GitHub!;Java+%7C+Python+%7C+C%2B%2B+%7C+JavaScript;React+%7C+Spring+Boot+%7C+Cloud+Computing;Always+learning+new+technologies!)](https://git.io/typing-svg)
 
   
   
