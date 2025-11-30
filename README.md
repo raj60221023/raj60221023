@@ -56,23 +56,8 @@
  
  
 
-<div align="center">
-
-  <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=raj60221023&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-
-  <!-- Streak Card -->
-  <img src="https://streak-stats.demolab.com?user=raj60221023&theme=react&hide_border=true" height="170" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj60221023&theme=react&layout=compact&hide_border=true" height="170" />
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raj60221023&theme=react-dark&hide_border=true&area=true" />
-
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=raj60221023&theme=onedark&no-frame=true&row=1&column=6" />
-
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/raj60221023/raj60221023/main/github-metrics.svg" />
 </div>
 
 
