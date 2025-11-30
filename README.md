@@ -55,14 +55,8 @@
 ### 📈 GitHub Stats
  
 
- <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raj60221023&show_icons=true&theme=radical&rank_icon=github" />
-  
-  <img height="180em" src="https://streak-stats.demolab.com?user=raj60221023&theme=radical" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj60221023&layout=compact&theme=radical" />
-
+  <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raj60221023&theme=onedark&no-frame=true&row=1&column=6" />
 </div>
 
 ---
