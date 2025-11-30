@@ -56,8 +56,19 @@
  
  
 
- <div align="center">
-  <img src="https://raw.githubusercontent.com/raj60221023/raj60221023/main/github-metrics.svg" />
+ ### 📌 Skills Used in My Repositories
+
+<div align="center">
+
+  <!-- Languages by Repo -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raj60221023&theme=radical" width="45%" />
+
+  <!-- Languages by Code Volume -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raj60221023&theme=radical" width="45%" />
+
+  <!-- Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj60221023&theme=radical" />
+
 </div>
 
 
